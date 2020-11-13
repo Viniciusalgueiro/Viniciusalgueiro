@@ -10,7 +10,7 @@
 
 <div>
  <p>
-I am a beginner web developer, able to build a web presence from scratch - from concept, navigation, layout and programming. I try to develop my skills in writing well-designed, testable and efficient code using current best practices in web development.
+I am a beginner Front-end developer, able to build a web presence from scratch - from concept, navigation, layout and programming. I try to develop my skills in writing well-designed, testable and efficient code using current best practices in web development.
 I have design & coding skills, as well as an ability to convert requirements into exciting online applications.
 </p>
 </div>
@@ -22,7 +22,7 @@ I have design & coding skills, as well as an ability to convert requirements int
 
 ### Tools 🛠️
 
-| <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="mysql" width="30"> |  <img src="https://cdn.svgporn.com/logos/ifttt.svg" width="36">| <img src="https://cdn.svgporn.com/logos/git-icon.svg" alt="Git" width="24">|  <img src="https://logonoid.com/images/webstorm-logo.png" alt="webtorm" width="24"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">| <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="24">|  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24"> | <img src=https://cdn.svgporn.com/logos/figma.svg width="26"> | many more...
+| <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="mysql" width="30"> |  <img src="https://cdn.svgporn.com/logos/ifttt.svg" width="36">| <img src="https://cdn.svgporn.com/logos/git-icon.svg" alt="Git" width="24">|  <img src="https://logonoid.com/images/webstorm-logo.png" alt="webtorm" width="24"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">| <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="24">|  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24"> | <img src=https://cdn.svgporn.com/logos/figma.svg width="24"> | many more...
 |---|---|---|---|---|---|---|---|---|
 
 ### Github Stats
