@@ -27,7 +27,7 @@ I have design & coding skills, as well as an ability to convert requirements int
 
 ### Github Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=viniciusalgueiro&layout=compact&theme=dark" />
 </a>
 
