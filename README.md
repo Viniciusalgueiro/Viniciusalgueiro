@@ -3,7 +3,7 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I'm [Vinicius Salgueiro Costa]
+### Hi there 👋 I'm Vinicius Salgueiro Costa
 
 
 <img src="https://komarev.com/ghpvc/?username=Viniciusalgueiro" alt="Viniciusalgueiro" />
