@@ -10,7 +10,7 @@
 
 <div>
  <p>
-I am a beginner Front-end developer, able to build a web presence from scratch - from concept, navigation, layout and programming. I am developing my skills in writing well-designed, testable and efficient code using current best practices in web development.
+I am an beginner Front-end developer, able to build a web presence from scratch - from concept, navigation, layout and programming. I am developing my skills in writing well-designed, testable and efficient code using current best practices in web development.
 I have design & coding skills, as well as an ability to convert requirements into exciting online applications.
 </p>
 </div>
