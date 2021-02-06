@@ -3,14 +3,14 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I'm Vinicius Salgueiro Costa
+### Hi there 👋 I'm Vinicius Salgueiro Costa.
 
 
 <img src="https://komarev.com/ghpvc/?username=Viniciusalgueiro" alt="Viniciusalgueiro" />
 
 <div>
  <p>
-I am a  Front-end developer, able to build a web presence from scratch - from concept, navigation, layout and programming. I am developing my skills in writing well-designed, testable and efficient code using current best practices in web development.
+I am a Front-end developer, able to build a web presence from scratch - from concept, navigation, layout and programming. I am developing my skills in writing well-designed, testable and efficient code using current best practices in web development.
 I have design & coding skills, as well as an ability to convert requirements into exciting online applications.
 </p>
 </div>
