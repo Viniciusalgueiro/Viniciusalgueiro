@@ -6,7 +6,7 @@
 ### Hi there 👋 I'm Vinicius Salgueiro Costa.
 
 
-<img src="https://komarev.com/ghpvc/?username=Viniciusalgueiro" alt="Viniciusalgueiro" />
+
 
 <div>
  <p>
