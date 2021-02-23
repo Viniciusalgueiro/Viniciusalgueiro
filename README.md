@@ -17,6 +17,7 @@ I have design & coding skills, as well as an ability to convert requirements int
 
 ### Programming Languages 🌐
 
+
 |<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="24"> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="24">|<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="24"> |  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">|  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery" width="24"> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="24"> |<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="html" width="24">| <img src=https://cdn.svgporn.com/logos/php.svg width="24">
 |---|---|---|---|---|---|---|---|
 
@@ -33,7 +34,7 @@ I have design & coding skills, as well as an ability to convert requirements int
 
 
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h4> 🤝🏻 Connect with Me </h4>
 
 <p align="center">
 <a href="https://mycv-phi.vercel.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.myportifolio.com.br-red?style=flat&logo=google-chrome"></a>
