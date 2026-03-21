@@ -1,45 +1,70 @@
+<div align="center">
+
+# Vinicius Salgueiro Costa
+### Product Manager | AI Products | System Performance & Cybersecurity
+
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
+  <a href="https://readme-typing-svg.demolab.com/?lines=Building+AI-driven+Products;Optimizing+System+Performance;Advocating+for+Cybersecurity;Bridging+Business+%26+Tech&font=Fira+Code&center=true&width=450&height=45&color=3B82F6&vCenter=true&pause=1000&size=20">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI-driven+Products;Optimizing+System+Performance;Advocating+for+Cybersecurity;Bridging+Business+%26+Tech&font=Fira+Code&center=true&width=450&height=45&color=3B82F6&vCenter=true&pause=1000&size=20" alt="Typing SVG" />
+  </a>
 </p>
 
-### Hi there 👋 I'm Vinicius Salgueiro Costa.
-
-
-
-
-<div>
- <p>
-I am a Junior Front-end developer, able to build a web presence from scratch - from concept, navigation, layout and programming. I am developing my skills in writing well-designed, testable and efficient code using current best practices in web development.
-I have design & coding skills, as well as an ability to convert requirements into exciting online applications.
+<p align="center">
+  <a href="https://www.linkedin.com/in/vinicius-salgueiro-1722b21b1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://mycv-phi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:viniciussalgueiro09@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
 </div>
 
-### Programming Languages 🌐
+---
+
+## 🚀 Visão e Atuação
+
+Atuo como **Product Manager** focado no ciclo de vida de produtos de Inteligência Artificial. Minha missão é traduzir necessidades complexas de negócio em soluções técnicas de alta performance. Com um background prático em desenvolvimento, eu garanto que a inovação em IA caminhe junto com escalabilidade e segurança.
+
+> *"Transformando complexidade tecnológica em valor de negócio através de produtos inteligentes."*
+
+### 🎯 Core Competencies
+- 🧠 **AI Product Management:** Discovery, viabilidade técnica, Roadmap e Delivery estratégico.
+- ⚡ **Performance & Scalability:** Otimização de arquiteturas para produtos de alto tráfego.
+- 🛡️ **Cybersecurity:** Foco na integridade de dados e proteção em sistemas integrados.
+- 🎨 **UX/UI & Design Thinking:** Desenvolvimento de interfaces centradas na jornada do usuário.
+
+---
+
+## 🛠️ Tech Stack & Ferramentas
+
+Como um PM técnico, transito com facilidade entre o negócio e a engenharia. Aqui estão as tecnologias que impulsionam minhas análises e MVPs:
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,nodejs,react,js,postgres,linux,git,docker,aws,figma&perline=10" alt="My Skills" />
+  </a>
+</div>
+
+<br>
+
+**Gestão & Frameworks:** `Agile (Scrum/Kanban)` • `Product Strategy` • `Data Analytics` • `System Architecture`
+
+---
+
+## 📊 GitHub Insights & Atividade
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=viniciusalgueiro&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&text_color=8b949e&icon_color=3B82F6&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusalgueiro&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=8b949e&icon_color=3B82F6&bg_color=0D1117" width="48%" />
+</div>
+
+---
+
+## ⚡ Cases em Destaque
 
 
-|<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="24"> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="24">|<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="24"> |  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">|  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery" width="24"> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="24"> |<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="html" width="24">| <img src=https://cdn.svgporn.com/logos/php.svg width="24">
-|---|---|---|---|---|---|---|---|
+---
 
-
-### Tools 🛠️🛠️
-| <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="mysql" width="30"> |  <img src="https://cdn.svgporn.com/logos/ifttt.svg" width="36">| <img src="https://cdn.svgporn.com/logos/git-icon.svg" alt="Git" width="24">|  <img src="https://logonoid.com/images/webstorm-logo.png" alt="webtorm" width="24"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">| <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="24"> |many more...
-|---|---|---|---|---|---|---|
-
-### Github Stats
-
-![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusalgueiro)
-
-### Github Repos
-
-
-
-<h4> 🤝🏻 Connect with Me </h4>
-
-<p align="center">
-<a href="https://mycv-phi.vercel.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.myportifolio.com.br-red?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/vinicius-salgueiro-1722b21b1/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@Viniciussalgueiro-blue?style=flat&logo=linkedin"></a>
-<a href="mailto:viniciussalgueiro09@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-viniciussalgueiro09@gmail.com-blue?style=flat&logo=gmail"></a>
-</p>
-
-
+<div align="center">
+  <i>"Conectando Estratégia, Design e Código para construir o futuro dos produtos de IA."</i>
+  <br><br>
+  <img src="https://img.shields.io/badge/Atualizado-2026-0D1117?style=flat-square&color=3B82F6" alt="Status" />
+</div>
