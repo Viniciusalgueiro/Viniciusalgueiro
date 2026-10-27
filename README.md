@@ -60,6 +60,10 @@ Como um PM técnico, transito com facilidade entre o negócio e a engenharia. Aq
 
 ## ⚡ Cases em Destaque
 
+| Projeto | O que é | Stack |
+|---|---|---|
+| 🧭 [**RemoteFlow**](https://github.com/Viniciusalgueiro/Japan_Final_project) | App de produtividade para trabalho remoto: check-in diário de humor e bloqueios, timer Pomodoro, quadro Kanban e um **priorizador de tarefas com IA** que sugere o foco do dia a partir do check-in. | Next.js • TypeScript • Genkit • Firebase |
+| 🏠 [**Ames Housing — Dashboard ANOVA**](https://github.com/Viniciusalgueiro/Ameshousing) | Dashboard interativo que testa o efeito de variáveis categóricas no preço de imóveis, com ANOVA, checagem de pressupostos (Shapiro, Levene) e Kruskal-Wallis como alternativa não paramétrica. | Python • Streamlit • statsmodels • SciPy |
 
 ---
 
